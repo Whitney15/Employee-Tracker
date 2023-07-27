@@ -10,12 +10,12 @@ USE employees_db;
 -- Creates the table "department" within employees_db --
 CREATE TABLE department (
   id INT NOT NULL,
-  name VARCHAR(30),
+  department_name VARCHAR(30),
   PRIMARY KEY (id)
 );
 
 CREATE TABLE role (
-  id INT,
+  id INT NOT NULL,
   title VARCHAR(30),
   salary DECIMAL,
   department_id INT,
@@ -23,7 +23,7 @@ CREATE TABLE role (
 );
 
 CREATE TABLE employee (
-  id INT,
+  id INT NOT NULL,
   first_name VARCHAR(30),
   last_name VARCHAR(30),
   role_id INT,
