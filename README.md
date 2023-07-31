@@ -39,8 +39,6 @@ THEN I am prompted to select an employee to update and their new role and this i
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credit](#credit)
-- [License](#license)
 
 ## Installation Requirements
 1. Clone this Respitory
@@ -61,11 +59,5 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 3. Open the cloned repository in Vscode or code editor of choice.
 
-## Deployed Application Link
-
-
-## Credit
-N/A
-
-## License
-* none
+## Video Link
+https://drive.google.com/file/d/1fl-Su3_kz5pU3VUDJNKdkjcpjXaJm1qR/view
